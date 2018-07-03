@@ -1,5 +1,6 @@
 # CS 598: Cloud Computing Capstone Task 1 by Harrison Kiang - ([Video Link: https://mediaspace.illinois.edu/media/t/1_dly65rlw](https://mediaspace.illinois.edu/media/t/1_dly65rlw))
 
+Code is not public. Contact me for code/demo.
 
 Note: If you're trying to run this, be sure to edit the `allArgs` variable in [build.gradle](build.gradle)!!!
 
