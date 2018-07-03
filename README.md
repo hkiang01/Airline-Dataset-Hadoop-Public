@@ -409,7 +409,7 @@ Each of the power law distributions were fit to the data using `scipy.optimize.c
 such that the first elements in the data and the fit curve are of the same magnitude and are well represented in the log-log axes.
 The zipf, poisson, lognormal, and pareto distributions are charted below:
 
-![alt text](docs/Figure_1.png "Group 3 Question 1 plot")
+![](https://raw.githubusercontent.com/hkiang01/Cloud-Computing-Capstone-Task-1/master/docs/Figure_1.png?token=AFMhnU2wPlpz1qa3qL86A5VYJmmVb2yDks5bRBRPwA%3D%3D "Group 3 Question 1 plot")
 
 The blue dots represent the popularity distribution.
 
