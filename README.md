@@ -655,8 +655,6 @@ cqlsh> SELECT * FROM airline_ontime.requestlegsbyrequest;
             LAX |          ORD |          JFK | 2008-01-01 05:00:00.000000+0000 | 6009f9f0-907f-42f5-bca2-b443c3670daf |             1 |      ORD |            944 |       1 |        LAX | 2008-01-01 12:05:00.000000+0000 |                 UA
 ```
 
-Sample stdout for `RequestsClientToCassandra` when run against `testRequests`:
-
 See:
 - `src/main/java/edu/illinois/hkiang2/mcsds/cloud_computing_capstone/task1/group3/RequestsClientToCassandra.java`
 - `whenCreatingARequestLeg_thenCreatedCorrectly` in `src/test/java/edu/illinois/hkiang2/mcsds/cloud_computing_capstone/task1/group3/cassandra/RequestLegTest.java`
